@@ -1,6 +1,7 @@
-# marketing-ab-test-analysis
+# Marketing-AB-Test-Analysis
 A/B test on 588K users: does advertising drive sales? Ad vs PSA control, +43% conversion lift. Z-test, chi-square, Mann-Whitney, bootstrap and frequency analysis in Python.
-# Does Advertising Drive Sales? Marketing A/B Test Analysis
+
+## Does Advertising Drive Sales? Marketing A/B Test Analysis
 
 Analysis of an A/B test on 588,101 users to measure whether an ad campaign increases purchases compared with a control group shown a public service announcement (PSA).
 
