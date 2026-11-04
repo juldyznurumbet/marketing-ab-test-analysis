@@ -1,6 +1,8 @@
 # Marketing-AB-Test-Analysis
 📖 **Full case study:** [juldyznurumbet.app/case/marketing-campaign-analysis](https://juldyznurumbet.app/case/marketing-campaign-analysis)
-A/B test on 588K users: does advertising drive sales? Ad vs PSA control, +43% conversion lift. Z-test, chi-square, Mann-Whitney, bootstrap and frequency analysis in Python.
+
+A/B test on 588K users: does advertising drive sales? 
+Ad vs PSA control, +43% conversion lift. Z-test, chi-square, Mann-Whitney, bootstrap and frequency analysis in Python.
 
 ## Does Advertising Drive Sales? Marketing A/B Test Analysis
 
